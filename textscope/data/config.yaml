@@ -22,13 +22,14 @@ SUBTHEMES:
   ]
   cibersec: [
     ["Incidentes de ciberseguridad", "Protección de infraestructuras críticas", "Vulnerabilidades y fallas en sistemas, aplicaciones y dispositivos", "Criptografía y cifrado de datos"],
-    ["Capacitación en ciberseguridad para empresas", "Formación para expertos en ciberseguridad"],
+    ["Capacitación en ciberseguridad", "Formación para expertos en ciberseguridad"],
     ["Normativas y estándares de ciberseguridad", "Reglamento General de Protección de Datos", "Auditorías de seguridad"],
     ["Ciberseguridad en tecnologías emergentes: inteligencia artificial, blockchain, IoT, y 5G", "Investigación y desarrollo para anticiparse a amenazas: malware, ransomware y ataques dirigidos (APT)"],
     ["Simulación de ciberataques: Red team/blue team.", "Planes de continuidad de negocio y estrategias para garantizar operaciones ante incidentes", "Gestión de riesgos cibernéticos"],
     ["Redes y organizaciones internacionales: ENISA e INTERPOL", "Intercambio de información: Centros de Operaciones de Seguridad (SOC) y CSIRT"],
     ["Protección infantil en internet: Seguridad en redes sociales", "Ciberacoso y delitos digitales","Educación ciudadanía en ciberseguridad y Campañas de sensibilización"],
-    ["Privacidad y derechos digitales", "Ética y ciberseguridad", "Responsabilidad social y entornos digitales seguros"]
+    ["Privacidad y derechos digitales", "Ética y ciberseguridad", "Responsabilidad social y entornos digitales seguros"],
+    ["Relaciones laborales y ciberseguridad", "Medidas de autoprotección para la ciberseguridad", "Formación para empleados en ciberseguridad", "Instrumentos internos de regulación en ciberseguridad"]
   ]
   mental_health: ["Do you often feel sad or hopeless?", "Have you lost interest in activities you once enjoyed?", "Do you experience significant changes in your weight or appetite?", "Do you have trouble sleeping or sleeping too much?", "Do you feel fatigued or have a lack of energy?", "Do you have feelings of worthlessness or excessive guilt?", "Do you have difficulty concentrating or making decisions?", "Have you had thoughts of self-harm or suicide?"]
   climat: ["Les températures moyennes augmentent-elles dans votre région?", "Y a-t-il une augmentation des phénomènes météorologiques extrêmes?", "Observez-vous une hausse du niveau de la mer?", "Les glaciers et les calottes glaciaires fondent-ils plus rapidement?", "Y a-t-il des changements dans les cycles de précipitations?", "Les espèces animales et végétales migrent-elles ou disparaissent-elles?", "Les océans deviennent-ils plus acides?", "La fréquence des feux de forêt augmente-t-elle?"]
